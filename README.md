@@ -1,8 +1,11 @@
-# React + Vite
+# **Image Explorer**
+Image Explorer is a React-based gallery app that uses Pixabay API to fetch and display images. The app is designed with Tailwind CSS to provide a modern and responsive user experience for browsing and searching images.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Screenshots
+![Screenshot 2025-02-26 212039](https://github.com/user-attachments/assets/88da5bd4-adbf-4f5a-bb9a-7db8856a2083)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Search Images** – Fetch images by keyword from the Pixabay API.
+- **Gallery View** – View images in a responsive grid layout.
+- **Fast & Responsive** – Built with React and Tailwind CSS for efficient rendering and modern design.
+- **Dynamic Data** – Automatically updates view based on user input.
